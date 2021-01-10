@@ -2,7 +2,7 @@
 <rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
   <channel>
     <title>DDFcast</title>
-    <link>http://example.com/</link>
+    <link>https://ddfcast.github.io/</link>
     <copyright></copyright>
     <itunes:subtitle></itunes:subtitle>
     <itunes:author>Zhe</itunes:author>
@@ -12,7 +12,7 @@
       <itunes:name>Zhang Zhe</itunes:name>
       <itunes:email>zhangzhe.dev@gmail.com</itunes:email>
     </itunes:owner>
-    <itunes:image href="http://example.com/img/logo.jpg"/>
+    <itunes:image href="https://ddfcast.github.io/img/logo.jpg"/>
     <itunes:category text="CATEGORY">
       <itunes:category text="CATEGORY"/>
     </itunes:category>
@@ -28,7 +28,7 @@
       <itunes:summary></itunes:summary>
       <itunes:image href="https://ddfcast.github.io/img/logo.jpg"/>
       <enclosure url="https://ddfcast.github.io/audio/morse.wav" length="54684" type="audio/wav"/>
-      <guid>http://example.com/2021/01/01/Pod/</guid>
+      <guid>https://ddfcast.github.io/2021/01/01/Pod/</guid>
       <pubDate>Fri, 01 Jan 2021 12:44:05 GMT</pubDate>
       <itunes:duration>00:00:06</itunes:duration>
       <psc:chapters version="1.2" xmlns:psc="http://podlove.org/simple-chapters">
