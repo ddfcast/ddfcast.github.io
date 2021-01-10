@@ -9,15 +9,15 @@
     <itunes:summary></itunes:summary>
     <description></description>
     <itunes:owner>
-      <itunes:name></itunes:name>
-      <itunes:email></itunes:email>
+      <itunes:name>Zhang Zhe</itunes:name>
+      <itunes:email>zhangzhe.dev@gmail.com</itunes:email>
     </itunes:owner>
-    <itunes:image href="http://example.com"/>
-    <itunes:category text="">
-      <itunes:category text=""/>
+    <itunes:image href="http://example.com/img/logo.jpg"/>
+    <itunes:category text="CATEGORY">
+      <itunes:category text="CATEGORY"/>
     </itunes:category>
     <itunes:explicit></itunes:explicit>
-    <language></language>
+    <language>en</language>
     
     <item>
       <title>Episode 标题</title>
@@ -26,8 +26,8 @@
       <itunes:author>John Doe</itunes:author>
       <itunes:subtitle>副标题</itunes:subtitle>
       <itunes:summary></itunes:summary>
-      <itunes:image href="/img/episodelogo.jpg"/>
-      <enclosure url="/audio/episode.mp3" length="456789123" type="audio/mpeg"/>
+      <itunes:image href="https://ddfcast.github.io/img/episodelogo.jpg"/>
+      <enclosure url="https://ddfcast.github.io/audio/episode.mp3" length="456789123" type="audio/mpeg"/>
       <guid>http://example.com/2021/01/01/Pod/</guid>
       <pubDate>Fri, 01 Jan 2021 12:44:05 GMT</pubDate>
       <itunes:duration>01:23:45</itunes:duration>
