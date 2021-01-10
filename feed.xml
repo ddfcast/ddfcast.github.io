@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
   <channel>
-    <title>Hexo</title>
+    <title>DDFcast</title>
     <link>http://example.com/</link>
     <copyright></copyright>
     <itunes:subtitle></itunes:subtitle>
-    <itunes:author>John Doe</itunes:author>
-    <itunes:summary></itunes:summary>
-    <description></description>
+    <itunes:author>Zhe</itunes:author>
+    <itunes:summary>DDFcast &amp;lt;br&amp;gt; Cast of DDF</itunes:summary>
+    <description>DDFcast &amp;lt;br&amp;gt; Cast of DDF</description>
     <itunes:owner>
       <itunes:name>Zhang Zhe</itunes:name>
       <itunes:email>zhangzhe.dev@gmail.com</itunes:email>
@@ -20,17 +20,17 @@
     <language>en</language>
     
     <item>
-      <title>Episode 标题</title>
-      <description><![CDATA[<p>Episode 信息，介绍<br>想说的话，联系方式等等</p>
+      <title>Morse</title>
+      <description><![CDATA[<p>Hello</p>
 ]]></description>
-      <itunes:author>John Doe</itunes:author>
-      <itunes:subtitle>副标题</itunes:subtitle>
+      <itunes:author>Zhe</itunes:author>
+      <itunes:subtitle>Morse</itunes:subtitle>
       <itunes:summary></itunes:summary>
-      <itunes:image href="https://ddfcast.github.io/img/episodelogo.jpg"/>
-      <enclosure url="https://ddfcast.github.io/audio/episode.mp3" length="456789123" type="audio/mpeg"/>
+      <itunes:image href="https://ddfcast.github.io/img/logo.jpg"/>
+      <enclosure url="https://ddfcast.github.io/audio/morse.wav" length="54684" type="audio/wav"/>
       <guid>http://example.com/2021/01/01/Pod/</guid>
       <pubDate>Fri, 01 Jan 2021 12:44:05 GMT</pubDate>
-      <itunes:duration>01:23:45</itunes:duration>
+      <itunes:duration>00:00:06</itunes:duration>
       <psc:chapters version="1.2" xmlns:psc="http://podlove.org/simple-chapters">
         
       </psc:chapters>
